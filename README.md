@@ -22,7 +22,7 @@
 - Don’t forget to push your header file
 - All your header files should be include guarded
 
-###Data structures
+### Data structures
 
 Basic Binary Tree
 
@@ -45,4 +45,5 @@ struct binary_tree_s
 
 typedef struct binary_tree_s binary_tree_t;
 ```
-
+#### Authors
+Aydan Akbarova, Isa Garazadeh
