@@ -1,4 +1,4 @@
-#  C - Binary Trees
+# C - Binary Trees
 
 ## General
 **What is a binary tree
