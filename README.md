@@ -46,4 +46,4 @@ struct binary_tree_s
 typedef struct binary_tree_s binary_tree_t;
 ```
 #### Authors
-Aydan Akbarova, Isa Garazade
+Aydan Akbarova, Isa Garazadeh
